@@ -1,5 +1,4 @@
 # BellyButton Biodiversity Dashboard
-
 ![image](https://user-images.githubusercontent.com/89953246/143298578-8ba4da84-2c0e-45ea-b545-4779999c8d98.png)
 
 ## Overview
