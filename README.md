@@ -2,7 +2,8 @@
 ![image](https://user-images.githubusercontent.com/89953246/143299120-2f80cc10-8d00-45a6-a389-2b3991dd4b87.png)
 
 ## Overview
-BellyButton study data was converted to an interactive dashboard by using JavaScript, Plotly and D3.js to create several charts and dropdown that allow the user to select specific samples.  In addition, the dashboard can be reached is linked to the web.
+BellyButton study data was converted to an interactive dashboard by using JavaScript, Plotly and D3.js to create several charts and dropdown that allow the user to select specific samples.  In addition, the dashboard is linked to the web.
+
 
 ![image](https://user-images.githubusercontent.com/89953246/143317800-7cd31b0d-4883-4257-917d-cffc6259220e.png)
 
