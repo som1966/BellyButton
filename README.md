@@ -13,6 +13,8 @@ The dashboard displays a horizontal bar graph that represents "The Top Bacteria 
 
 ![image](https://user-images.githubusercontent.com/89953246/143316186-b6dd4ac4-c17f-4af4-926b-d5ea96242439.png)
 The gauge chart represents the washing frequency of belly button per week.  When the user selects a subject ID, the gauge chart changes to that sample.
+
+
 ![image](https://user-images.githubusercontent.com/89953246/143316408-41ae57d4-a730-4e44-bcb0-96b363b107f7.png)
 
 Subject ID 947 selected, look at the number of washings per week- nice!
