@@ -1,31 +1,26 @@
 # BellyButton Biodiversity Dashboard
-![image](https://user-images.githubusercontent.com/89953246/143298578-8ba4da84-2c0e-45ea-b545-4779999c8d98.png)
+![image](https://user-images.githubusercontent.com/89953246/143299120-2f80cc10-8d00-45a6-a389-2b3991dd4b87.png)
 
 ## Overview
+BellyButton study data was converted to an interactive dashboard by using JavaScript, Plotly and D3.js to create several charts and dropdown that allow the user to select specific samples.   
+
+## Instructions for use:
+![image](https://user-images.githubusercontent.com/89953246/143315833-34fd2e90-80a1-4c54-be80-87e836f8acd5.png)
+User selects a sampple to review
+
+![image](https://user-images.githubusercontent.com/89953246/143315972-af63c755-9a8f-4fa0-9355-c3b38e84f3bb.png)
+The dashboard displays a horizontal bar graph that represents "The Top Bacteria Cultures Found".
+
+![image](https://user-images.githubusercontent.com/89953246/143316186-b6dd4ac4-c17f-4af4-926b-d5ea96242439.png)
+The gauge chart represents the washing frequency of belly button per week.  When the user selects a subject ID, the gauge chart changes to that sample.
+![image](https://user-images.githubusercontent.com/89953246/143316408-41ae57d4-a730-4e44-bcb0-96b363b107f7.png)
+
+Subject ID 947 selected, look at the number of washings per week- nice!
+![image](https://user-images.githubusercontent.com/89953246/143316479-743bd708-58bd-41cc-9a8f-fed6d2ed8251.png)
+
+Finally, there is a "bubble chart" at the bottom that shows the number of samples and OTU IDs.
+
+![image](https://user-images.githubusercontent.com/89953246/143316665-1eda6c32-6796-46e8-8c7f-656eed3ed741.png)
 
 
-## Results
 
-Website:
-![image](https://user-images.githubusercontent.com/89953246/142257099-53e4ec4a-60a3-49a6-af39-abcee4f5de1a.png)
-At first glance, the user has the opportunity to review the complete table for its contents.  On the left side of the webpage, the user may choose to filter the data by date, city, state and country.  The web page allows the user to select 1 to 5 filters for their data analysis needs. 
-
-![image](https://user-images.githubusercontent.com/89953246/142258775-9472de64-6950-4c56-93c0-6b7130b6349a.png)
-Filtering the data to California - there were 30 sightings. Then filtered to the city of El Cajon which had only 5.
-
-If the user wanted to check for one particular sighting, the filtering code makes it easy!  As a user, I was at the location of a UFO sighting and I wanted to check to see if it was recorded, I fill in the required fields  - 
-
-![image](https://user-images.githubusercontent.com/89953246/142260135-78be055c-adb6-4e6e-ba6a-e462e3d03c9c.png)
-That's the sighting!
-
-## Summary
-The webpage is easy to read, provides an information overview and a table that the user can interact with, thus making it interesting. Using the JavaScript into a HTML page and creating functions to create filters then filtereing the data and rebuilding a table on the user input is nice. The multi-level filtering function does a good job providing the information quickly.  
-
-Limitations:
-
-Filtering data has some limitations, such as ensuring one types the correct filter.  For example, typing "lights" versus the exact word "light" under shape returns no data.  This could lead to the user assuming no reporting of "lights".  
-
-Recommendations:
-
-A drop down box for each filter would let the user see what is available to choose for filtering. 
-Another recommendation may be adding some calculation function instead of manually counting the sightings.
