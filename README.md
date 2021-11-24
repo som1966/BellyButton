@@ -1,4 +1,4 @@
-# BellyButton Biodiversity Dashboard
+# Belly Button Biodiversity Dashboard
 ![image](https://user-images.githubusercontent.com/89953246/143299120-2f80cc10-8d00-45a6-a389-2b3991dd4b87.png)
 
 ## Overview
